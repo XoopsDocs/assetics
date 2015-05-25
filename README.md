@@ -16,13 +16,11 @@ This document is an introduction to Assets Management in XOOPS CMS Environment, 
 
 # Table of Content
 
-* [Install/Uninstall](book/1install.md)
-* [Administration Menu](book/2administration.md)
-* [Preferences](book/3preferences.md)
-* [Operating Instructions](book/4operations.md)
-* [The User Side](book/5userside.md)
-
- 
+* [Assets Management](book/1install.md)
+* [Assets: the Basics](book/2administration.md)
+* [Assets: the Functions](book/3preferences.md)
+* [Base Assets](book/4operations.md)
+* [Feedback](book/5userside.md) 
 
 ##License:
 
