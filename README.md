@@ -12,8 +12,7 @@
 
 This document is an introduction to Assets Management in XOOPS CMS Environment, in the upcoming new version of XOOPS
 
-![image001.png](assets/image001.png)
-*Figure 1: Main view of the XXX Module (Admin side)*
+
 
 # Table of Content
 
