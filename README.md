@@ -21,11 +21,8 @@ This document is an introduction to Assets Management in XOOPS CMS Environment, 
 * [Preferences](book/3preferences.md)
 * [Operating Instructions](book/4operations.md)
 * [The User Side](book/5userside.md)
-* [Blocks](book/6blocks.md)
-* [Templates](book/7templates.md)
-* [Other](book/8other.md) //delete, if not used
-* [Module Credits](book/9credits.md)
-* 
+
+ 
 
 ##License:
 
