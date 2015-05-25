@@ -4,15 +4,13 @@
 # Assets Management
 #### for XOOPS 2.6.0
       
-![logoModule.png](assets/logoModule.png)
-            
 ## User Manual
 
-© 2014 The XOOPS Project (www.xoops.org)    
+© 2015 The XOOPS Project (www.xoops.org)    
 
 ## Module Purpose 
 
-This module is for .....
+This document is an introduction to Assets Management in XOOPS CMS Environment, in the upcoming new version of XOOPS
 
 ![image001.png](assets/image001.png)
 *Figure 1: Main view of the XXX Module (Admin side)*
