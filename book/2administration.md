@@ -30,4 +30,41 @@ Filters are specified as a string of comma separated filter names.  A filter nam
 
 These are the available filters:
 
-![logoModule.png](../assets/logoModule.png)
+![logoModule.png](../assets/2015-05-25_103546.jpg)
+
+If no filters are specified, default filters will be applied.
+
+Stylesheets
+```
+'cssimport,cssembed,?cssmin'```
+
+
+Javascript
+```
+'?jsmin'```
+
+**Assets Location: Core**
+
+Managed assets are stored in the “assets” directory in the XOOPS web root
+* stylesheets in css sub-directory
+* scripts in js sub-directory
+
+These managed directories can be cleared, and contents will be recreated as needed
+
+Other subdirectories, such as fonts, are managed differently
+
+**Assets Location: Core**
+
+Module's Assets are also placed in an “assets” folder, similar to Core
+In order to take advantage of Assetic, current modules should convert to this folder structure 
+
+![logoModule.png](../assets/2015-05-25_103739.jpg)
+
+#### Lazy Management
+
+* Each page load specifies the set of assets it needs
+* The lists of files, modification times, and filters to apply are used to build unique asset names
+* If the static file with that name does not exist, the asset files are processed and filtered, and the static file is created
+* There are no separate formula extraction or preprocessing steps needed
+
+
