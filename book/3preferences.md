@@ -71,5 +71,51 @@ To use an asset named “jquery” include an asset name of “@jquery” in an 
 
 The Smarty block plugin allows assets to be defined in templates. Full syntax:
 
-![logoModule.png](assets/logoModule.png)
+![2015-05-25_103806.jpg](../assets/2015-05-25_103806.jpg)
+
+**Assets Tag Argument:**
+
+
+| Tag | Meaning |
+| -- | -- |
+|assets | comma separated list of assets to process.
+|output  | type of output, “css” or “js”
+|debug | true to enable debug mode, default is false
+|filters |  list of  filters to apply, if not specifed will use default filters for output type
+|asset_url  | smarty variable to assign asset path, defaults to “asset_url”
+
+#### BEHIND THE SCENES
+
+* Xoops\Core\Assets.php handles communication with the Assetic library
+* Xoops object establishes a single instance of Assets class, and XoopsTheme references it
+* Configuration of Assets class is in  ***xoops_path/configs/system_assets_prefs.yml***, but it normally should not need to be changed
+
+**copyFileAssets()**
+
+To handle fonts and images in some special circumstances, a file copy function is provided.
+ 
+```
+Xoops\Core\Assets::copyFileAssets()
+```
+
+This method copies files to the asset directory. Copying is normally only needed for fonts or images when they are referenced by a relative URL in a stylesheet, or are located outside of the web root, as might be the case of a file asset located in a vendor package.
+
+#### Turning on Debug
+
+* Easiest way is to include ASSET_DEBUG=1 in the URL, i.e. index.php?ASSET_DEBUG=1
+* Add this call to your code: 
+
+```
+\Xoops::getInstance()->assets()->setDebug(true);
+```
+
+* Add **debug=true** to a Smarty assets tag
+* Any of these will turn off any filters prefixed with a question mark (by default cssmin and jsmin)
+
+#### Examples
+
+
+You probably would like to see some examples of the Assets Management. 
+
+**The best source of asset management examples is in XOOPS 2.6.0 itself.**
 
