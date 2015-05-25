@@ -1,1 +1,13 @@
-# 5.0 The User Side
+# 5.0 Feedback 
+
+If you have any suggestions, comments or questions, please make them known.
+
+You can contact the author here:
+
+**richard@geekwright.com**
+
+
+
+![logoXoops.jpg](../assets/logoXoops.jpg)
+
+### www.xoops.org
