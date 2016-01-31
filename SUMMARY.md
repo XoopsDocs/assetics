@@ -5,5 +5,5 @@
 * [Assets: the Functions](book/3preferences.md)
 * [Base Assets](book/4operations.md)
 * [Feedback](book/5userside.md)
-
+* [About XOOPS CMS](book/10aboutxoops.md)
 
