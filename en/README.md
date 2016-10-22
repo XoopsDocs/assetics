@@ -3,12 +3,12 @@
 
 # Assets Management
 #### for XOOPS 2.6.0
-      
+Ver. 1.0      
 ## User Manual
 
 © 2016 XOOPS Project ([www.xoops.org](http://xoops.org))   
 
-## Module Purpose 
+## Document Purpose 
 
 This document is an introduction to Assets Management in XOOPS CMS Environment, in the upcoming new version of XOOPS
 
