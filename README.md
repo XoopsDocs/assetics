@@ -8,7 +8,7 @@
 
 © 2016 XOOPS Project ([www.xoops.org](http://xoops.org))   
 
-## Module Purpose 
+## Purpose 
 
 This document is an introduction to Assets Management in XOOPS CMS Environment, in the upcoming new version of XOOPS
 
