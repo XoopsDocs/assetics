@@ -27,7 +27,10 @@ Editing the book can be done either by updating the markdown files with a text e
 * [Assets: the Basics](en/book/2administration.md)
 * [Assets: the Functions](en/book/3preferences.md)
 * [Base Assets](en/book/4operations.md)
-* [Feedback](en/book/5userside.md) 
+* [Feedback](en/book/5userside.md)
+* [Credits](en/book/9credits.md)
+* [About XOOPS CMS](en/book/10aboutxoops.md)
+ 
 
 ##License:
 
