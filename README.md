@@ -3,14 +3,21 @@
 
 # Assets Management
 #### for XOOPS 2.6.0
-      
-## User Manual
+
+Version 1.0      
+## Tutorial
 
 © 2016 XOOPS Project ([www.xoops.org](http://xoops.org))   
 
-## Module Purpose 
+## Purpose 
 
 This document is an introduction to Assets Management in XOOPS CMS Environment, in the upcoming new version of XOOPS
+
+## How to Contribute
+
+[You can contribute on GitHub](https://github.com/XoopsDocs/assetics). Changes will be [pushed to Gitbook.io automatically](https://www.gitbook.com/book/xoops/assetics/activity) when the [main repository](https://github.com/XoopsDocs/assetics) changes.
+
+Editing the book can be done either by updating the markdown files with a text editor, or opening the repository in [the Gitbook desktop app](https://github.com/GitbookIO/editor/blob/master/README.md). The desktop app will give you a live preview option.
 
 
 
@@ -20,7 +27,10 @@ This document is an introduction to Assets Management in XOOPS CMS Environment, 
 * [Assets: the Basics](en/book/2administration.md)
 * [Assets: the Functions](en/book/3preferences.md)
 * [Base Assets](en/book/4operations.md)
-* [Feedback](en/book/5userside.md) 
+* [Feedback](en/book/5userside.md)
+* [Credits](en/book/9credits.md)
+* [About XOOPS CMS](en/book/10aboutxoops.md)
+ 
 
 ##License:
 
