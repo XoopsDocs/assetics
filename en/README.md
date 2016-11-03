@@ -11,7 +11,7 @@ Version 1.0
 
 ## Purpose
 
-This document is an introduction to Assets Management in [XOOPS CMS](http://xoops.org) Environment, in the upcoming [new version of XOOPS CMS](https://github.com/XOOPS/XoopsCore)
+This document is an introduction to **Assets Management** in [XOOPS CMS](http://xoops.org) Environment, in the upcoming [new version of XOOPS CMS](https://github.com/XOOPS/XoopsCore)
 
 
 ## How to Contribute
