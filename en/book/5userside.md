@@ -2,9 +2,7 @@
 
 If you have any suggestions, comments or questions, please make them known.
 
-You can contact the author here:
-
-**richard@geekwright.com**
+You can contact the author at: **richard@geekwright.com**
 
 
 
