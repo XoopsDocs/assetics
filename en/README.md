@@ -1,5 +1,5 @@
 ### _XOOPS Documentation Series_
-![logoXoops.jpg](assets/logoXoops.jpg)
+![](assets/logoXoops.jpg)
 
 # Assets Management
 #### for XOOPS 2.6.0
@@ -7,11 +7,11 @@ Version 1.0
 ## Tutorial
 
 
-© 2016 XOOPS Project ([www.xoops.org](http://xoops.org))   
+© 2018 XOOPS Project ([www.xoops.org](https://xoops.org))   
 
 ## Purpose
 
-This document is an introduction to **Assets Management** in [XOOPS CMS](http://xoops.org) Environment, in the upcoming [new version of XOOPS CMS](https://github.com/XOOPS/XoopsCore)
+This document is an introduction to **Assets Management** in [XOOPS CMS](https://xoops.org) Environment, in the upcoming [new version of XOOPS CMS](https://github.com/XOOPS/XoopsCore)
 
 
 ## How to Contribute
@@ -32,8 +32,8 @@ Editing the book can be done either by updating the markdown files with a text e
 * [About XOOPS CMS](book/10aboutxoops.md)
 
 
-##License:
+## License:
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />Unless specified, this content is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
 
-All derivative works are to be attributed to XOOPS Project ([www.xoops.org](http://xoops.org))
+All derivative works are to be attributed to XOOPS Project ([www.xoops.org](https://xoops.org))
