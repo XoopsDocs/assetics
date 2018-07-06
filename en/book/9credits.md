@@ -6,6 +6,6 @@ You can contact the author at: **richard@geekwright.com**
 
 ![logoXoops.jpg](../assets/logoXoops.jpg)
 
-### [www.xoops.org](http://xoops.org)
+### [www.xoops.org](https://xoops.org)
 
 
